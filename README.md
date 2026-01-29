@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Bansal140899/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bansal140899/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/Bansal140899/leetcode-dsa/tree/master/0561-array-partition) |
 ## Greedy
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Bansal140899/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bansal140899/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/Bansal140899/leetcode-dsa/tree/master/0561-array-partition) |
 ## Counting Sort
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bansal140899/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Bansal140899/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
