@@ -35,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Bansal140899/leetcode-dsa/tree/master/0088-merge-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Bansal140899/leetcode-dsa/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
